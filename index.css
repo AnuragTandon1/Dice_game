@@ -1,0 +1,49 @@
+h1{
+    font-size: 7rem;
+    font-weight: bolder;
+    text-align: center;
+    color: aquamarine;
+    text-decoration: solid;
+}
+body{
+    background-color: lightslategray;
+}
+p{
+    font-family: cursive;
+    font-size: 30px;
+    color: aquamarine;
+}
+.a{
+    font-size: 40px;
+    position: relative;
+    left: 440px;
+}
+.b{
+    font-size: 40px;
+    position: relative;
+    left: 530px;
+}
+.c{
+    position: relative;
+    left: 440px;
+height: 200px;
+width: 200px;
+    
+}
+.d{
+    position: relative;
+    left: 530px;
+    height: 200px;
+    width: 200px;
+}
+.an{
+    font-size: medium;
+    text-align: center;
+    padding-left: 15%;
+    padding-top: 7%;
+    padding-right: 15%;
+}
+.ar{
+    font-size: medium;
+    text-align: center;
+}
